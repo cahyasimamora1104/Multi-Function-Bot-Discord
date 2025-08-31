@@ -1,7 +1,3 @@
-Berikut adalah contoh **README.md** profesional untuk GitHub yang mencakup ketiga file (`main.py`, `requirements.txt`, dan `.env`):
-
----
-
 # 🎯 Discord Bot dengan Music Player, Ticket System, dan Welcome System
 
 Bot ini dibuat menggunakan **Python** dengan library **discord.py** versi 2.x. Fitur utama meliputi:
